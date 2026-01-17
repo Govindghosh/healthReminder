@@ -1,0 +1,20 @@
+{
+    "pomodoro": {
+        "work_minutes": 25,
+        "break_minutes": 5,
+        "enabled": true
+    },
+    "water": {
+        "interval_minutes": 45,
+        "enabled": true
+    },
+    "meals": {
+        "timings": [
+            "09:10",
+            "13:30",
+            "20:10"
+        ],
+        "enabled": true
+    },
+    "auto_start": true
+}

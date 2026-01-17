@@ -1,0 +1,3 @@
+pystray
+plyer
+pillow
